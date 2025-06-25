@@ -32,8 +32,8 @@ export default function ExpertPanelPage() {
     {
       position: "Γραμματέας-Ταμίας του Δ.Σ.",
       positionEn: "Secretary-Treasurer",
-      name: "Νικόλαος Γρηγοριάδης",
-      nameEn: "Nikolaos Grigoriadis",
+      name: "Γρηγοριάδης Νικόλαος",
+      nameEn: "Grigoriadis Nikolaos",
       title: "Καθηγητής Νευρολογίας, Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης",
       titleEn: "Professor of Neurology, Aristotle University of Thessaloniki",
       email: "grigoria@med.auth.gr",
