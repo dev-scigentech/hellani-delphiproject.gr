@@ -497,14 +497,16 @@ The outcome of this collaborative effort will be a reference guide, a Delphi Pap
                         </div>
 
                         {/* Expand Button */}
-                        <div className="lg:ml-8 mt-6 lg:mt-0">
+                     <div className="lg:ml-8 mt-6 lg:mt-0">
                           <button
                             onClick={() => toggleExpert(expert.id)}
                             className="flex items-center space-x-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors duration-300 font-medium text-sm"
-                          >
-                            <span>
+                          >{language==="el" ?( <span>
                               {expandedExperts.has(expert.id) ? paperData.hideCV.el : paperData.viewFullCV.el}
-                            </span>
+                            </span>):( <span>
+                              {expandedExperts.has(expert.id) ? paperData.hideCV.en : paperData.viewFullCV.en}
+                            </span>)}
+                           
                             {expandedExperts.has(expert.id) ? (
                               <ChevronUp className="w-4 h-4" />
                             ) : (
