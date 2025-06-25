@@ -214,7 +214,7 @@ export const translations = {
     completed: "Completed",
 
     // Expert Panel page
-    expertPanelTitle: "Helani  Delphi Board",
+    expertPanelTitle: "Executive Committee Members",
     expertPanelIntro:
       "The success of the Delphi Project is built upon the expertise of distinguished specialists in the field of Neuroimmunology. Our team consists of leading researchers and clinicians with extensive experience in the study of neuroimmunological disorders.",
     viewFullCV: "View Full CV",
