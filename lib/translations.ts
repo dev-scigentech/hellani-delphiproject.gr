@@ -29,7 +29,7 @@ export const translations = {
     pioneeringMethodology: "Πρωτοποριακή Ερευνητική Μεθοδολογία",
     questionnaires: "Ερωτηματολόγια",
     questionnaireDesc: "Δομημένα ερωτηματολόγια στέλνονται στους εμπειρογνώμονες",
-    expertPanel: "Helani Delphi Board",
+    expertPanel: "Διοικητικό Συμβούλιο ΕΛΛ.Α.ΝΑ",
     expertPanelDesc: "Ανώνυμη συμμετοχή και ανταλλαγή απόψεων μεταξύ ειδικών",
     analysisConsensus: "Ανάλυση & Συναίνεση",
     analysisDesc: "Στατιστική ανάλυση και επίτευξη συναίνεσης μεταξύ των εμπειρογνωμόνων",
@@ -57,7 +57,7 @@ export const translations = {
     completed: "Ολοκληρώθηκε",
 
     // Expert Panel page
-    expertPanelTitle: "Helani Delphi Board",
+    expertPanelTitle: "Διοικητικό Συμβούλιο ΕΛΛ.Α.ΝΑ",
     expertPanelIntro:
       "Η επιτυχία του Delphi Project βασίζεται στην εμπειρογνωμοσύνη διακεκριμένων ειδικών στον τομέα της Νευροανοσολογίας. Η ομάδα μας αποτελείται από κορυφαίους ερευνητές και κλινικούς ιατρούς με εκτεταμένη εμπειρία στη μελέτη των νευροανοσολογικών διαταραχών.",
     viewFullCV: "Προβολή Πλήρους Βιογραφικού",
@@ -186,7 +186,7 @@ export const translations = {
     pioneeringMethodology: "Pioneering Research Methodology",
     questionnaires: "Questionnaires",
     questionnaireDesc: "Structured questionnaires are sent to experts",
-    expertPanel: "Helani Delphi Board",
+    expertPanel: "Executive Committee Members",
     expertPanelDesc: "Anonymous participation and exchange of views among specialists",
     analysisConsensus: "Analysis & Consensus",
     analysisDesc: "Statistical analysis and achievement of consensus among experts",
