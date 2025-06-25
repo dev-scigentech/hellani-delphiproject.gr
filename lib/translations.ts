@@ -143,7 +143,7 @@ export const translations = {
     conferencesPresent: "Συνέδρια & Παρουσιάσεις",
 
     // Publications page - Content not available
-    contentNotAvailable: "Το περιεχόμενο δεν είναι ακόμη δια��έσιμο",
+    contentNotAvailable: "Το περιεχόμενο δεν είναι ακόμη διαθέσιμο",
     publicationsComingSoon:
       "Οι δημοσιεύσεις που προκύπτουν από το Delphi Project θα είναι σύντομα διαθέσιμες. Παρακαλούμε επισκεφθείτε ξανά την ιστοσελίδα μας για τις τελευταίες ενημερώσεις.",
     checkBackSoon: "Ελέγξτε ξανά σύντομα",

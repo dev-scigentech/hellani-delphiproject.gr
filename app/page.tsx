@@ -7,7 +7,7 @@ import { useLanguage } from "@/contexts/language-context"
 const themes = [
   {
     id: "theme-1",
-    title: "Ανοσολογική Ανασύσταση στην Υποτροπιάζουσα Πολλαπλή Σκλήρ��νση",
+    title: "Ανοσολογική Ανασύσταση στην Υποτροπιάζουσα Πολλαπλή Σκλήρυνση",
     titleEn: "The Role of Immunological Reconstitution in Relapsing Multiple Sclerosis",
     description: "Εξερεύνηση των σύγχρονων μεθόδων νευρολογικής αξιολόγησης και διάγνωσης.",
     descriptionEn: "Exploration of modern methods of neurological assessment and diagnosis.",
