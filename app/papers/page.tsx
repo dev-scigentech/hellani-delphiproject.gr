@@ -253,6 +253,32 @@ The outcome of this collaborative effort will be a reference guide, a Delphi Pap
       awards: 'Multiple scientific awards',
     },
     {
+      id: 'iliopoulos',
+      name: 'Ioannis Iliopoulos',
+      nameEl: 'Ιωάννης Ηλιόπουλος',
+      title:
+        'Professor of Neurology, Director of the University Neurology Department',
+      titleEl:
+        'Καθηγητής Νευρολογίας, Διευθυντής Πανεπιστημιακής Νευρολογικής Κλινικής',
+      affiliation:
+        'Democritus University of Thrace, University General Hospital of Alexandroupolis',
+      affiliationEl: 'Δημοκρίτειο Πανεπιστήμιο Θράκης, Π.Γ.Ν. Αλεξανδρούπολης',
+      researchInterests:
+        'Humoral immune response in demyelinating diseases of the CNS, Neuroimmunology, Human monoclonal antibodies, Neuro-ophthalmology',
+      researchInterestsEl:
+        'Χυμική ανοσιακή απόκριση στις απομυελινωτικές παθήσεις του ΚΝΣ, Νευροανοσολογία, Ανθρώπινα μονοκλωνικά αντισώματα, Νευρο-οφθαλμολογία',
+      bioEn:
+        "Dr. Ioannis Iliopoulos is a Professor of Neurology at the Democritus University of Thrace, Director of the University Department of Neurology at the University General Hospital of Alexandroupolis, and Associate Director of the 'Neuroimmunology' Joint Postgraduate Program (MSc) of the Aristotle University of Thessaloniki – Democritus University of Thrace. He completed his neurology residency training at AHEPA University Hospital of Thessaloniki and his Neuroimmunology fellowship at the Hospital of the University of Pennsylvania and the Children’s Hospital of Philadelphia, PA, USA. He is a founding member of the Hellenic Academy of Neuroimmunology and was Greece’s representative on the ECTRIMS Council. Dr. Iliopoulos' research focuses on the humoral immune response in demyelinating diseases of the CNS. He contributed to the identification of a human anti-CD2 monoclonal antibody (NCBI-Protein & Gene), and several of his works are cited in prominent neurology textbooks such as Neuro-ophthalmology (Handbook of Clinical Neurology, vol. 102), McAlpine’s Multiple Sclerosis, and Electrodiagnosis in Diseases of Nerve and Muscle by J. Kimura.",
+      bioEl:
+        'Ο Δρ. Ιωάννης Ηλιόπουλος είναι Καθηγητής Νευρολογίας στο Δημοκρίτειο Πανεπιστήμιο Θράκης, Διευθυντής της Πανεπιστημιακής Νευρολογικής Κλινικής Π.Γ.Ν. Αλεξανδρούπολης και Αναπληρωτής Διευθυντής του Διατμηματικού Μεταπτυχιακού Προγράμματος Σπουδών Α.Π.Θ. – Δ.Π.Θ. «Νευροανοσολογία». Έλαβε το πτυχίο της Ιατρικής από το Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης και το διδακτορικό του από το Δημοκρίτειο Πανεπιστήμιο Θράκης. Ολοκλήρωσε την ειδικότητά του στη Νευρολογία στο Πανεπιστημιακό Νοσοκομείο ΑΧΕΠΑ Θεσσαλονίκης και την εξειδίκευσή του στη Νευροανοσολογία στο Πανεπιστήμιο της Πενσυλβάνια και στο Παιδιατρικό Νοσοκομείο της Φιλαδέλφειας στις ΗΠΑ. Είναι ιδρυτικό μέλος και Πρόεδρος της Ελληνικής Ακαδημίας Νευροανοσολογίας και υπήρξε μέλος του Συμβουλίου της ECTRIMS. Το ερευνητικό του έργο επικεντρώνεται στη χυμική ανοσιακή απόκριση στις απομυελινωτικές παθήσεις του ΚΝΣ. Συνέβαλε στην ταυτοποίηση ανθρώπινου μονοκλωνικού αντισώματος έναντι του CD2 (NCBI-Protein & Gene). Πολλές από τις εργασίες του αναφέρονται σε αναγνωρισμένα συγγράμματα όπως το Neuro-ophthalmology (Handbook of Clinical Neurology, vol. 102), το McAlpine’s Multiple Sclerosis και το Electrodiagnosis in Diseases of Nerve and Muscle του J. Kimura.',
+      image: '/images/iliopoulos.jpg',
+      publications: 'N/A',
+      citations: 'N/A',
+      hIndex: 'N/A',
+      clinicalTrials: 'N/A',
+      awards: 'Referenced in key neurology textbooks',
+    },
+    {
       id: 'new-expert',
       name: 'Evangelos Kouremenos',
       nameEl: 'Ευάγγελος Κουρεμένος',
@@ -360,32 +386,6 @@ The outcome of this collaborative effort will be a reference guide, a Delphi Pap
           label: 'LinkedIn',
         },
       ],
-    },
-    {
-      id: 'iliopoulos',
-      name: 'Ioannis Iliopoulos',
-      nameEl: 'Ιωάννης Ηλιόπουλος',
-      title:
-        'Professor of Neurology, Director of the University Neurology Department',
-      titleEl:
-        'Καθηγητής Νευρολογίας, Διευθυντής Πανεπιστημιακής Νευρολογικής Κλινικής',
-      affiliation:
-        'Democritus University of Thrace, University General Hospital of Alexandroupolis',
-      affiliationEl: 'Δημοκρίτειο Πανεπιστήμιο Θράκης, Π.Γ.Ν. Αλεξανδρούπολης',
-      researchInterests:
-        'Humoral immune response in demyelinating diseases of the CNS, Neuroimmunology, Human monoclonal antibodies, Neuro-ophthalmology',
-      researchInterestsEl:
-        'Χυμική ανοσιακή απόκριση στις απομυελινωτικές παθήσεις του ΚΝΣ, Νευροανοσολογία, Ανθρώπινα μονοκλωνικά αντισώματα, Νευρο-οφθαλμολογία',
-      bioEn:
-        "Dr. Ioannis Iliopoulos is a Professor of Neurology at the Democritus University of Thrace, Director of the University Department of Neurology at the University General Hospital of Alexandroupolis, and Associate Director of the 'Neuroimmunology' Joint Postgraduate Program (MSc) of the Aristotle University of Thessaloniki – Democritus University of Thrace. He completed his neurology residency training at AHEPA University Hospital of Thessaloniki and his Neuroimmunology fellowship at the Hospital of the University of Pennsylvania and the Children’s Hospital of Philadelphia, PA, USA. He is a founding member of the Hellenic Academy of Neuroimmunology and was Greece’s representative on the ECTRIMS Council. Dr. Iliopoulos' research focuses on the humoral immune response in demyelinating diseases of the CNS. He contributed to the identification of a human anti-CD2 monoclonal antibody (NCBI-Protein & Gene), and several of his works are cited in prominent neurology textbooks such as Neuro-ophthalmology (Handbook of Clinical Neurology, vol. 102), McAlpine’s Multiple Sclerosis, and Electrodiagnosis in Diseases of Nerve and Muscle by J. Kimura.",
-      bioEl:
-        'Ο Δρ. Ιωάννης Ηλιόπουλος είναι Καθηγητής Νευρολογίας στο Δημοκρίτειο Πανεπιστήμιο Θράκης, Διευθυντής της Πανεπιστημιακής Νευρολογικής Κλινικής Π.Γ.Ν. Αλεξανδρούπολης και Αναπληρωτής Διευθυντής του Διατμηματικού Μεταπτυχιακού Προγράμματος Σπουδών Α.Π.Θ. – Δ.Π.Θ. «Νευροανοσολογία». Έλαβε το πτυχίο της Ιατρικής από το Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης και το διδακτορικό του από το Δημοκρίτειο Πανεπιστήμιο Θράκης. Ολοκλήρωσε την ειδικότητά του στη Νευρολογία στο Πανεπιστημιακό Νοσοκομείο ΑΧΕΠΑ Θεσσαλονίκης και την εξειδίκευσή του στη Νευροανοσολογία στο Πανεπιστήμιο της Πενσυλβάνια και στο Παιδιατρικό Νοσοκομείο της Φιλαδέλφειας στις ΗΠΑ. Είναι ιδρυτικό μέλος και Πρόεδρος της Ελληνικής Ακαδημίας Νευροανοσολογίας και υπήρξε μέλος του Συμβουλίου της ECTRIMS. Το ερευνητικό του έργο επικεντρώνεται στη χυμική ανοσιακή απόκριση στις απομυελινωτικές παθήσεις του ΚΝΣ. Συνέβαλε στην ταυτοποίηση ανθρώπινου μονοκλωνικού αντισώματος έναντι του CD2 (NCBI-Protein & Gene). Πολλές από τις εργασίες του αναφέρονται σε αναγνωρισμένα συγγράμματα όπως το Neuro-ophthalmology (Handbook of Clinical Neurology, vol. 102), το McAlpine’s Multiple Sclerosis και το Electrodiagnosis in Diseases of Nerve and Muscle του J. Kimura.',
-      image: '/images/iliopoulos.jpg',
-      publications: 'N/A',
-      citations: 'N/A',
-      hIndex: 'N/A',
-      clinicalTrials: 'N/A',
-      awards: 'Referenced in key neurology textbooks',
     },
   ];
 
