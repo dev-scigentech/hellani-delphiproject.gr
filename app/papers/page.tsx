@@ -272,10 +272,6 @@ The outcome of this collaborative effort will be a reference guide, a Delphi Pap
       bioEl:
         'Ο Δρ. Ιωάννης Ηλιόπουλος είναι Καθηγητής Νευρολογίας στο Δημοκρίτειο Πανεπιστήμιο Θράκης, Διευθυντής της Πανεπιστημιακής Νευρολογικής Κλινικής Π.Γ.Ν. Αλεξανδρούπολης και Αναπληρωτής Διευθυντής του Διατμηματικού Μεταπτυχιακού Προγράμματος Σπουδών Α.Π.Θ. – Δ.Π.Θ. «Νευροανοσολογία». Έλαβε το πτυχίο της Ιατρικής από το Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης και το διδακτορικό του από το Δημοκρίτειο Πανεπιστήμιο Θράκης. Ολοκλήρωσε την ειδικότητά του στη Νευρολογία στο Πανεπιστημιακό Νοσοκομείο ΑΧΕΠΑ Θεσσαλονίκης και την εξειδίκευσή του στη Νευροανοσολογία στο Πανεπιστήμιο της Πενσυλβάνια και στο Παιδιατρικό Νοσοκομείο της Φιλαδέλφειας στις ΗΠΑ. Είναι ιδρυτικό μέλος και Πρόεδρος της Ελληνικής Ακαδημίας Νευροανοσολογίας και υπήρξε μέλος του Συμβουλίου της ECTRIMS. Το ερευνητικό του έργο επικεντρώνεται στη χυμική ανοσιακή απόκριση στις απομυελινωτικές παθήσεις του ΚΝΣ. Συνέβαλε στην ταυτοποίηση ανθρώπινου μονοκλωνικού αντισώματος έναντι του CD2 (NCBI-Protein & Gene). Πολλές από τις εργασίες του αναφέρονται σε αναγνωρισμένα συγγράμματα όπως το Neuro-ophthalmology (Handbook of Clinical Neurology, vol. 102), το McAlpine’s Multiple Sclerosis και το Electrodiagnosis in Diseases of Nerve and Muscle του J. Kimura.',
       image: '/images/iliopoulos.jpg',
-      publications: 'N/A',
-      citations: 'N/A',
-      hIndex: 'N/A',
-      clinicalTrials: 'N/A',
       awards: 'Referenced in key neurology textbooks',
     },
     {
@@ -803,20 +799,15 @@ The outcome of this collaborative effort will be a reference guide, a Delphi Pap
 
               {/* Embedded Form */}
               <div className='bg-gray-50 rounded-xl p-4'>
-                <div className='relative h-[1200px] overflow-auto rounded-xl border border-gray-200 bg-gray-50'>
-                  {/* Iframe itself */}
-                  <iframe
-                    src='https://forms.zohopublic.com/scigentechnologiessa/form/Untitled3/formperma/PePS4jptVrrmysjIM0JCTyE63EtsU_JUT_7QVZSJDvQ'
-                    width='100%'
-                    height='1200'
-                    frameBorder='0'
-                    className='pointer-events-none w-full'
-                    title='Delphi Questionnaire: Immunological Reconstitution'
-                  />
-
-                  {/* Overlay to block interaction but allow scrolling via the parent */}
-                  <div className='absolute inset-0 z-10'></div>
-                </div>
+                {/* Iframe itself */}
+                <iframe
+                  src='https://forms.zohopublic.com/scigentechnologiessa/form/Untitled4/formperma/krhEDBlIoaxwqLrrdE97R82ODiwcvJGaK6cBdoDbGog'
+                  width='100%'
+                  height='1200'
+                  frameBorder='0'
+                  className='w-full'
+                  title='Delphi Questionnaire: Immunological Reconstitution'
+                />
               </div>
               {/* Download Link for English Version */}
               <div className='mt-6 p-4 bg-blue-50 rounded-xl border border-blue-200'>
